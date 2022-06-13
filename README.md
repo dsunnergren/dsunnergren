@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dsunnergren
+- 👋 Hi, I’m Deanna! @dsunnergren
 - 👀 I’m interested in Conservation Biology and Data Analysis.
 - 🌱 I’m currently learning Java, C, Python, and R.
 - 📫 How to reach me: deannasunnergren@gmail.com or dsunnergren@lclark.edu
